@@ -5,3 +5,5 @@ torch
 transformers
 sentence-transformers
 langchain-community
+pypdf2
+pdfplumber
